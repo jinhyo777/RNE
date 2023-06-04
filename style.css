@@ -1,0 +1,65 @@
+.pcolor {
+    background-color:white;
+    border-color:white;
+}
+.font {
+    font-family: '나눔손글씨 가람연꽃';
+    font-weight: 700;
+}
+.pos {
+    position: absolute;
+}
+.group {
+    position: relative;
+}
+.group1 {
+    top: 0;
+}
+
+.group2 {
+    top: 0;
+}
+.al {
+    position: relative;
+    left: 14%;
+}
+.button {
+    background-color:rgb(227, 213, 255);
+    border-color:rgb(227, 213, 255);;
+    width: 100px;
+    height: 70px;
+    font-size: 20px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: rgb(255, 255, 255);;
+}
+.container {
+    display: flex;
+}
+.ggroup {
+    flex: 1;
+}
+.lp {
+    left: 25%;
+}
+.bs {
+    font-size: 150%;
+}
+.hs {
+    font-size: 250%;
+}
+.rnes {
+    width: 13%;
+    height: 250%;
+}
+.bhs {
+    width: 10%;
+    height: 10%;
+}
+.bots {
+    width: 10%;
+    height: 10%;
+}
